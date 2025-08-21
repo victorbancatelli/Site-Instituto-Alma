@@ -1,0 +1,23 @@
+body {
+     margin: 0; /*Removem qualquer espaço padrão ao redor da página. */
+     padding: 0; /*Removem qualquer espaço padrão ao redor da página. */
+     width: 100%; /*Garantem que html e body ocupem toda a largura e altura da viewport.*/
+    height: 100%; /*Garantem que html e body ocupem toda a largura e altura da viewport. */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+.Logo-Empresa {
+    width: 200px; /* Define a largura da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    padding: 10px; /* Adiciona um preenchimento ao redor do logo */
+  }
+  
+  /* Se o logo estiver dentro de um cabeçalho, você pode estilizar o cabeçalho também */
+  header {
+    background-color: #C6FFEE; /* Cor de fundo do cabeçalho */
+    padding: 0; /* Preenchimento superior e inferior do cabeçalho */
+    margin: 0;
+  }
+
+menu-items {
+    cursor: pointer;
+}
