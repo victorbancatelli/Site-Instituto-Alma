@@ -21,3 +21,13 @@ body {
 menu-items {
     cursor: pointer;
 }
+
+footer{
+  background-color: #C6FFEE; /* Cor de fundo do rodapé */
+  padding: 10px; /* Preenchimento do rodapé */
+  text-align: center; /* Centraliza o texto no rodapé */
+}
+
+.logo-Footer {
+  justify-content: flex-start
+}
