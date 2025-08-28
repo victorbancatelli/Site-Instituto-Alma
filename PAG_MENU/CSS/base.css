@@ -4,6 +4,7 @@ body {
      width: 100%; /*Garantem que html e body ocupem toda a largura e altura da viewport.*/
     height: 100%; /*Garantem que html e body ocupem toda a largura e altura da viewport. */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #C6FFEE;
   }
 .Logo-Empresa {
     width: 200px; /* Define a largura da imagem */
